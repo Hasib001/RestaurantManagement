@@ -1,0 +1,6 @@
+Pic no 1: prof i did tried to run the following command but it never finished installing
+            "dotnet new webapp -au Individual -uld -o WebPWrecover
+	     cd WebPWrecover
+	     dotnet run"
+
+Pic no 2: I didn't able to verify my sender account even though i confirmed the mail came into my mail box two times.
